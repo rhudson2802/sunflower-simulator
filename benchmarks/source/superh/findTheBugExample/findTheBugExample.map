@@ -1,0 +1,1345 @@
+Archive member included to satisfy reference by file (symbol)
+
+/data/f-of-e-tools/tools/sunflower/sys/libOS/mOS/libmOS-superH.a(atexit.o)
+                              init.o (atexit)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+                              init.o (malloc)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o) (_malloc_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+                              findTheBugExample.o (printf)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o) (_sbrk)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-trap.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o) (__trap34)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o) (_vfprintf_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__swsetup_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o) (abort)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (_dtoa_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (_fflush_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__sinit)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o) (_free_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o) (_fwalk)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o) (_global_impure_ptr)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (_localeconv_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o) (__global_locale)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o) (__ascii_mbtowc)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (memchr)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memcpy.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (memcpy)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memset.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o) (memset)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (_Balloc)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o) (raise)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o) (_kill_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o) (__sread)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-strcmp.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o) (strcmp)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-strlen.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (strlen)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__sprint_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o) (__ascii_wctomb)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o) (_write_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o) (_calloc_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o) (_close_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o) (_ctype_b)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o) (_fclose_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o) (_fstat_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o) (__sfvwrite_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o) (_isatty_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o) (_lseek_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o) (memmove)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o) (_read_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o) (__swbuf_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftrt.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o) (__ashiftrt_r4_20)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftrt_n.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o) (__ashrsi3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftlt.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o) (__ashlsi3_r0)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lshiftrt.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__lshrsi3_r0)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mulsi3.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__mulsi3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_sdivsi3.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__sdivsi3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivsi3.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__udivsi3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__udivdi3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__umoddi3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__adddf3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__muldf3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__divdf3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__eqdf2)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__nedf2)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__gtdf2)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__gedf2)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__ltdf2)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__ledf2)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o) (__unorddf2)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__floatsidf)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__fixdfsi)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o) (__thenan_df)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o) (__floatunsidf)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udiv_qrnnd_16.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o) (__udiv_qrnnd_16)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o) (__muldi3)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o) (__clz_tab)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o) (__clzsi2)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o) (__pack_d)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o) (__unpack_d)
+/data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+                              /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o) (__fpcmp_parts_d)
+
+Allocating common symbols
+Common symbol       size              file
+
+REGSAVESTACK        0x24              findTheBugExample.o
+errno               0x4               /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .text set to 0x8004000
+
+.text           0x0000000008004000     0x9700
+                0x0000000008004000                _text = .
+ *(.text)
+ .text          0x0000000008004000       0xa0 init.o
+                0x0000000008004010                vec_stub_begin
+                0x0000000008004084                sleep
+                0x0000000008004084                vec_stub_end
+ .text          0x00000000080040a0      0x19c misc.o
+                0x00000000080040a0                sccputc
+                0x00000000080040f0                devlogprintputc
+                0x0000000008004124                xudelay
+                0x000000000800417a                xusleep
+                0x00000000080041d8                pow10
+ .text          0x000000000800423c       0x60 devrtc.o
+                0x000000000800423c                devrtc_getusecs
+ .text          0x000000000800429c       0xdc findTheBugExample.o
+                0x000000000800429c                main
+                0x00000000080042fc                intr_hdlr
+ .text          0x0000000008004378        0x4 /data/f-of-e-tools/tools/sunflower/sys/libOS/mOS/libmOS-superH.a(atexit.o)
+                0x0000000008004378                atexit
+ .text          0x000000000800437c       0x28 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+                0x000000000800437c                malloc
+                0x0000000008004390                free
+ .text          0x00000000080043a4      0x5c0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+                0x00000000080043a4                _malloc_r
+ .text          0x0000000008004964        0x8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+                0x0000000008004964                __malloc_lock
+                0x0000000008004968                __malloc_unlock
+ .text          0x000000000800496c       0x54 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+                0x000000000800496c                _printf_r
+                0x0000000008004990                printf
+ .text          0x00000000080049c0       0x38 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+                0x00000000080049c0                _sbrk_r
+ .text          0x00000000080049f8      0x278 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+                0x0000000008004a7c                _read
+                0x0000000008004a8c                _lseek
+                0x0000000008004a9c                _write
+                0x0000000008004aac                _close
+                0x0000000008004abc                _link
+                0x0000000008004ac0                _sbrk
+                0x0000000008004b28                _fstat
+                0x0000000008004b34                _open
+                0x0000000008004b44                _creat
+                0x0000000008004b54                _unlink
+                0x0000000008004b58                isatty
+                0x0000000008004b5c                _isatty
+                0x0000000008004b60                _exit
+                0x0000000008004b70                _kill
+                0x0000000008004b84                _getpid
+                0x0000000008004b88                _raise
+                0x0000000008004b8c                _stat
+                0x0000000008004b9c                _chmod
+                0x0000000008004bac                _chown
+                0x0000000008004bbc                _utime
+                0x0000000008004bd0                _fork
+                0x0000000008004bdc                _wait
+                0x0000000008004bec                _execve
+                0x0000000008004bfc                _execv
+                0x0000000008004c0c                _pipe
+                0x0000000008004c18                _times
+                0x0000000008004c1c                _gettimeofday
+                0x0000000008004c44                __setup_argv_and_call_main
+ .text          0x0000000008004c70       0x14 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-trap.o)
+                0x0000000008004c70                __trap34
+ .text          0x0000000008004c84     0x1f20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+                0x0000000008004c84                _vfprintf_r
+                0x0000000008006b00                vfprintf
+ .text          0x0000000008006ba4       0xf0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+                0x0000000008006ba4                __swsetup_r
+ .text          0x0000000008006c94       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+                0x0000000008006c94                abort
+ .text          0x0000000008006cac     0x1510 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+                0x0000000008006e70                _dtoa_r
+ .text          0x00000000080081bc      0x1f0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+                0x00000000080081bc                __sflush_r
+                0x0000000008008340                _fflush_r
+                0x0000000008008384                fflush
+ .text          0x00000000080083ac      0x28c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+                0x00000000080083b0                _cleanup_r
+                0x00000000080084c4                __sfmoreglue
+                0x0000000008008518                __sfp
+                0x00000000080085cc                _cleanup
+                0x00000000080085e4                __sinit
+                0x00000000080085f8                __sfp_lock_acquire
+                0x00000000080085fc                __sfp_lock_release
+                0x0000000008008600                __sinit_lock_acquire
+                0x0000000008008604                __sinit_lock_release
+                0x0000000008008608                __fp_lock_all
+                0x0000000008008620                __fp_unlock_all
+ .text          0x0000000008008638      0x2fc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+                0x0000000008008638                _malloc_trim_r
+                0x000000000800870c                _free_r
+ .text          0x0000000008008934       0xf4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+                0x0000000008008934                _fwalk
+                0x00000000080089a8                _fwalk_reent
+ .text          0x0000000008008a28        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+ .text          0x0000000008008a28       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+                0x0000000008008a28                __localeconv_l
+                0x0000000008008a30                _localeconv_r
+                0x0000000008008a54                localeconv
+ .text          0x0000000008008a78       0xc0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+                0x0000000008008a78                _setlocale_r
+                0x0000000008008ac8                __locale_mb_cur_max
+                0x0000000008008af0                __locale_ctype_ptr_l
+                0x0000000008008afc                __locale_ctype_ptr
+                0x0000000008008b24                setlocale
+ .text          0x0000000008008b38      0x13c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+                0x0000000008008b38                __swhatbuf_r
+                0x0000000008008bb8                __smakebuf_r
+ .text          0x0000000008008c74       0x7c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+                0x0000000008008c74                _mbtowc_r
+                0x0000000008008ca4                __ascii_mbtowc
+ .text          0x0000000008008cf0       0xd4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+                0x0000000008008cf0                memchr
+ .text          0x0000000008008dc4       0x94 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memcpy.o)
+                0x0000000008008dc4                memcpy
+ .text          0x0000000008008e58       0x40 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memset.o)
+                0x0000000008008e58                memset
+ .text          0x0000000008008e98      0xc3c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+                0x0000000008008e98                _Balloc
+                0x0000000008008f0c                _Bfree
+                0x0000000008008f24                __multadd
+                0x0000000008008ff0                __s2b
+                0x00000000080090b4                __hi0bits
+                0x0000000008009108                __lo0bits
+                0x0000000008009170                __i2b
+                0x000000000800918c                __multiply
+                0x000000000800931c                __pow5mult
+                0x00000000080093f8                __lshift
+                0x0000000008009508                __mcmp
+                0x0000000008009540                __mdiff
+                0x000000000800965c                __ulp
+                0x00000000080096d8                __b2d
+                0x00000000080097f0                __d2b
+                0x00000000080098f8                __ratio
+                0x0000000008009980                _mprec_log10
+                0x00000000080099e0                __copybits
+                0x0000000008009a38                __any_on
+ .text          0x0000000008009ad4      0x1fc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+                0x0000000008009b0c                _init_signal_r
+                0x0000000008009b28                _signal_r
+                0x0000000008009b7c                _raise_r
+                0x0000000008009bfc                __sigtramp_r
+                0x0000000008009c70                raise
+                0x0000000008009c84                signal
+                0x0000000008009c98                _init_signal
+                0x0000000008009cbc                __sigtramp
+ .text          0x0000000008009cd0       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+                0x0000000008009cd0                _kill_r
+                0x0000000008009d0c                _getpid_r
+ .text          0x0000000008009d18      0x110 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+                0x0000000008009d18                __sread
+                0x0000000008009d58                __seofread
+                0x0000000008009d5c                __swrite
+                0x0000000008009dd0                __sseek
+                0x0000000008009e18                __sclose
+ .text          0x0000000008009e28       0x30 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-strcmp.o)
+                0x0000000008009e28                strcmp
+ .text          0x0000000008009e58       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-strlen.o)
+                0x0000000008009e58                strlen
+ .text          0x0000000008009e78     0x107c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+                0x0000000008009f30                __sprint_r
+                0x0000000008009f48                _vfiprintf_r
+                0x000000000800ae50                vfiprintf
+ .text          0x000000000800aef4       0x4c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+                0x000000000800aef4                _wctomb_r
+                0x000000000800af20                __ascii_wctomb
+ .text          0x000000000800af40       0x3c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+                0x000000000800af40                _write_r
+ .text          0x000000000800af7c       0x90 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+                0x000000000800af7c                _calloc_r
+ .text          0x000000000800b00c       0x38 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+                0x000000000800b00c                _close_r
+ .text          0x000000000800b044        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .text          0x000000000800b044       0xe4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+                0x000000000800b044                _fclose_r
+                0x000000000800b114                fclose
+ .text          0x000000000800b128      0x150 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+                0x000000000800b128                __fputwc
+                0x000000000800b1f8                _fputwc_r
+                0x000000000800b21c                fputwc
+ .text          0x000000000800b278       0x3c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+                0x000000000800b278                _fstat_r
+ .text          0x000000000800b2b4      0x384 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+                0x000000000800b2b4                __sfvwrite_r
+ .text          0x000000000800b638       0x38 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+                0x000000000800b638                _isatty_r
+ .text          0x000000000800b670       0x3c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+                0x000000000800b670                _lseek_r
+ .text          0x000000000800b6ac       0xf4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+                0x000000000800b6ac                memmove
+ .text          0x000000000800b7a0       0x3c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+                0x000000000800b7a0                _read_r
+ .text          0x000000000800b7dc      0x3d8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+                0x000000000800b7dc                _realloc_r
+ .text          0x000000000800bbb4      0x110 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+                0x000000000800bbb4                __swbuf_r
+                0x000000000800bcb0                __swbuf
+ .text          0x000000000800bcc4      0x10c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+                0x000000000800bcc4                _wcrtomb_r
+                0x000000000800bd48                wcrtomb
+ .text          0x000000000800bdd0       0x52 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftrt.o)
+                0x000000000800bdd0                __ashiftrt_r4_31
+                0x000000000800bdd0                __ashiftrt_r4_32
+                0x000000000800bdd6                __ashiftrt_r4_30
+                0x000000000800bdd8                __ashiftrt_r4_29
+                0x000000000800bdda                __ashiftrt_r4_28
+                0x000000000800bddc                __ashiftrt_r4_27
+                0x000000000800bdde                __ashiftrt_r4_26
+                0x000000000800bde0                __ashiftrt_r4_25
+                0x000000000800bde2                __ashiftrt_r4_24
+                0x000000000800bdea                __ashiftrt_r4_23
+                0x000000000800bdec                __ashiftrt_r4_22
+                0x000000000800bdee                __ashiftrt_r4_21
+                0x000000000800bdf0                __ashiftrt_r4_20
+                0x000000000800bdf2                __ashiftrt_r4_19
+                0x000000000800bdf4                __ashiftrt_r4_18
+                0x000000000800bdf6                __ashiftrt_r4_17
+                0x000000000800bdf8                __ashiftrt_r4_16
+                0x000000000800bdfe                __ashiftrt_r4_15
+                0x000000000800be00                __ashiftrt_r4_14
+                0x000000000800be02                __ashiftrt_r4_13
+                0x000000000800be04                __ashiftrt_r4_12
+                0x000000000800be06                __ashiftrt_r4_11
+                0x000000000800be08                __ashiftrt_r4_10
+                0x000000000800be0a                __ashiftrt_r4_9
+                0x000000000800be0c                __ashiftrt_r4_8
+                0x000000000800be0e                __ashiftrt_r4_7
+                0x000000000800be10                __ashiftrt_r4_6
+                0x000000000800be12                __ashiftrt_r4_5
+                0x000000000800be14                __ashiftrt_r4_4
+                0x000000000800be16                __ashiftrt_r4_3
+                0x000000000800be18                __ashiftrt_r4_2
+                0x000000000800be1a                __ashiftrt_r4_1
+                0x000000000800be1e                __ashiftrt_r4_0
+ *fill*         0x000000000800be22        0x2 
+ .text          0x000000000800be24       0x84 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftrt_n.o)
+                0x000000000800be24                __ashrsi3
+ .text          0x000000000800bea8       0xc8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftlt.o)
+                0x000000000800bea8                __ashlsi3
+                0x000000000800beac                __ashlsi3_r0
+ .text          0x000000000800bf70       0xc8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lshiftrt.o)
+                0x000000000800bf70                __lshrsi3
+                0x000000000800bf74                __lshrsi3_r0
+ .text          0x000000000800c038       0x22 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mulsi3.o)
+                0x000000000800c038                __mulsi3
+ *fill*         0x000000000800c05a        0x2 
+ .text          0x000000000800c05c       0xa0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_sdivsi3.o)
+                0x000000000800c05c                __sdivsi3
+ .text          0x000000000800c0fc       0x6e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivsi3.o)
+                0x000000000800c11e                __udivsi3
+ *fill*         0x000000000800c16a        0x2 
+ .text          0x000000000800c16c      0x2b0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+                0x000000000800c16c                __udivdi3
+ .text          0x000000000800c41c      0x304 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+                0x000000000800c41c                __umoddi3
+ .text          0x000000000800c720      0x3a0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+                0x000000000800ca1c                __adddf3
+                0x000000000800ca6c                __subdf3
+ .text          0x000000000800cac0      0x244 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+                0x000000000800cac0                __muldf3
+ .text          0x000000000800cd04      0x124 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+                0x000000000800cd04                __divdf3
+ .text          0x000000000800ce28       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+                0x000000000800ce28                __eqdf2
+ .text          0x000000000800ce80       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+                0x000000000800ce80                __nedf2
+ .text          0x000000000800ced8       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+                0x000000000800ced8                __gtdf2
+ .text          0x000000000800cf28       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+                0x000000000800cf28                __gedf2
+ .text          0x000000000800cf78       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+                0x000000000800cf78                __ltdf2
+ .text          0x000000000800cfd0       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+                0x000000000800cfd0                __ledf2
+ .text          0x000000000800d028       0x40 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+                0x000000000800d028                __unorddf2
+ .text          0x000000000800d068       0xa8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+                0x000000000800d068                __floatsidf
+ .text          0x000000000800d110       0xa4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+                0x000000000800d110                __fixdfsi
+ .text          0x000000000800d1b4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .text          0x000000000800d1b4       0x88 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+                0x000000000800d1b4                __floatunsidf
+ *fill*         0x000000000800d23c        0x4 
+ .text          0x000000000800d240       0x60 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udiv_qrnnd_16.o)
+                0x000000000800d240                __udiv_qrnnd_16
+ .text          0x000000000800d2a0       0x88 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+                0x000000000800d2a0                __muldi3
+ .text          0x000000000800d328        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .text          0x000000000800d328       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+                0x000000000800d328                __clzsi2
+ .text          0x000000000800d380      0x1ec /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+                0x000000000800d380                __pack_d
+ .text          0x000000000800d56c       0xc8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+                0x000000000800d56c                __unpack_d
+ .text          0x000000000800d634       0xc4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+                0x000000000800d634                __fpcmp_parts_d
+ *(.strings)
+                0x000000000800d6f8                _etext = .
+
+.rodata         0x000000000800d700      0x520
+ .rodata        0x000000000800d700       0x11 findTheBugExample.o
+ *fill*         0x000000000800d711        0x3 
+ .rodata        0x000000000800d714       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .rodata        0x000000000800d734        0x4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+                0x000000000800d734                _global_impure_ptr
+ .rodata        0x000000000800d738      0x124 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+                0x000000000800d744                __mprec_tinytens
+                0x000000000800d76c                __mprec_bigtens
+                0x000000000800d794                __mprec_tens
+ .rodata        0x000000000800d85c       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .rodata        0x000000000800d87c      0x284 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+                0x000000000800d87c                _ctype_
+                0x000000000800d980                _ctype_b
+ .rodata        0x000000000800db00       0x14 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+                0x000000000800db00                __thenan_df
+ .rodata        0x000000000800db14      0x100 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+                0x000000000800db14                __clz_tab
+
+.rodata.str1.4  0x000000000800dc20       0xc0
+ .rodata.str1.4
+                0x000000000800dc20       0x1a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ *fill*         0x000000000800dc3a        0x2 
+ .rodata.str1.4
+                0x000000000800dc3c       0x42 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ *fill*         0x000000000800dc7e        0x2 
+ .rodata.str1.4
+                0x000000000800dc80       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ *fill*         0x000000000800dc92        0x2 
+ .rodata.str1.4
+                0x000000000800dc94       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ *fill*         0x000000000800dca6        0x2 
+ .rodata.str1.4
+                0x000000000800dca8       0x2f /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+
+.tors           0x000000000800dce0        0x0
+                0x000000000800dce0                ___ctors = .
+ *(.ctors)
+                0x000000000800dce0                ___ctors_end = .
+                0x000000000800dce0                ___dtors = .
+ *(.dtors)
+                0x000000000800dce0                ___dtors_end = .
+
+.data           0x000000000800dce0      0xb60
+                0x000000000800dce0                _data = .
+ *(.data)
+ .data          0x000000000800dce0        0x0 init.o
+ .data          0x000000000800dce0        0x0 misc.o
+ .data          0x000000000800dce0        0x0 devrtc.o
+ .data          0x000000000800dce0        0x4 findTheBugExample.o
+                0x000000000800dce0                gFlag
+ .data          0x000000000800dce4        0x0 /data/f-of-e-tools/tools/sunflower/sys/libOS/mOS/libmOS-superH.a(atexit.o)
+ .data          0x000000000800dce4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .data          0x000000000800dce4      0x410 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+                0x000000000800dce4                __malloc_sbrk_base
+                0x000000000800dce8                __malloc_trim_threshold
+                0x000000000800dcec                __malloc_av_
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-trap.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .data          0x000000000800e0f4        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .data          0x000000000800e0f4      0x428 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+                0x000000000800e0f4                _impure_ptr
+ .data          0x000000000800e51c        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .data          0x000000000800e51c      0x16c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+                0x000000000800e51c                __global_locale
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memcpy.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memset.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-strcmp.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-strlen.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftrt.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftrt_n.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftlt.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lshiftrt.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mulsi3.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_sdivsi3.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivsi3.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udiv_qrnnd_16.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .data          0x000000000800e688        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+ *(.gcc_exc*)
+                0x000000000800e688                ___EH_FRAME_BEGIN__ = .
+ *(.eh_fram*)
+ .eh_frame      0x000000000800e688       0xc4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .eh_frame      0x000000000800e74c       0xec /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+                0x000000000800e838                ___EH_FRAME_END__ = .
+                0x000000000800e838        0x4 LONG 0x0
+                0x000000000800e83c                _edata = .
+
+.bss            0x000000000800e83c       0x64
+                0x000000000800e83c                _bss = .
+ *(.bss)
+ .bss           0x000000000800e83c        0x0 init.o
+ .bss           0x000000000800e83c        0x0 misc.o
+ .bss           0x000000000800e83c        0x0 devrtc.o
+ .bss           0x000000000800e83c        0x0 findTheBugExample.o
+ .bss           0x000000000800e83c        0x0 /data/f-of-e-tools/tools/sunflower/sys/libOS/mOS/libmOS-superH.a(atexit.o)
+ .bss           0x000000000800e83c        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .bss           0x000000000800e83c       0x34 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+                0x000000000800e83c                __malloc_current_mallinfo
+                0x000000000800e864                __malloc_max_total_mem
+                0x000000000800e868                __malloc_max_sbrked_mem
+                0x000000000800e86c                __malloc_top_pad
+ .bss           0x000000000800e870        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .bss           0x000000000800e870        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .bss           0x000000000800e870        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .bss           0x000000000800e870        0x4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-trap.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+ .bss           0x000000000800e874        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .bss           0x000000000800e874        0x4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+                0x000000000800e874                _PathLocale
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memcpy.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memset.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-strcmp.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-strlen.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftrt.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftrt_n.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ashiftlt.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lshiftrt.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mulsi3.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_sdivsi3.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivsi3.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udiv_qrnnd_16.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .bss           0x000000000800e878        0x0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+ *(COMMON)
+ COMMON         0x000000000800e878       0x24 findTheBugExample.o
+                0x000000000800e878                REGSAVESTACK
+ COMMON         0x000000000800e89c        0x4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+                0x000000000800e89c                errno
+                0x000000000800e8a0                _ebss = .
+                0x000000000800e8a0                _end = .
+LOAD init.o
+LOAD misc.o
+LOAD devrtc.o
+LOAD findTheBugExample.o
+LOAD /data/f-of-e-tools/tools/sunflower/sys/libOS/mOS/libmOS-superH.a
+LOAD /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a
+LOAD /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a
+OUTPUT(findTheBugExample coff-sh)
+
+.stab           0x0000000000000000     0x1380
+ .stab          0x0000000000000000      0x498 misc.o
+ .stab          0x0000000000000498      0x264 devrtc.o
+ .stab          0x00000000000006fc      0xb40 findTheBugExample.o
+ .stab          0x000000000000123c      0x144 /data/f-of-e-tools/tools/sunflower/sys/libOS/mOS/libmOS-superH.a(atexit.o)
+
+.stabstr        0x0000000000000000     0x3e40
+ .stabstr       0x0000000000000000      0xbaf misc.o
+ .stabstr       0x0000000000000baf      0x98b devrtc.o
+ .stabstr       0x000000000000153a     0x25f3 findTheBugExample.o
+ .stabstr       0x0000000000003b2d      0x30f /data/f-of-e-tools/tools/sunflower/sys/libOS/mOS/libmOS-superH.a(atexit.o)
+
+.comment        0x0000000000000000      0x4c0
+ .comment       0x0000000000000000       0x12 misc.o
+ .comment       0x0000000000000012       0x12 devrtc.o
+ .comment       0x0000000000000024       0x12 findTheBugExample.o
+ .comment       0x0000000000000036       0x12 /data/f-of-e-tools/tools/sunflower/sys/libOS/mOS/libmOS-superH.a(atexit.o)
+ .comment       0x0000000000000048       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .comment       0x000000000000005a       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .comment       0x000000000000006c       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .comment       0x000000000000007e       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .comment       0x0000000000000090       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .comment       0x00000000000000a2       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .comment       0x00000000000000b4       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .comment       0x00000000000000c6       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .comment       0x00000000000000d8       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .comment       0x00000000000000ea       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .comment       0x00000000000000fc       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .comment       0x000000000000010e       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000120       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000132       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000144       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000156       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .comment       0x0000000000000168       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .comment       0x000000000000017a       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .comment       0x000000000000018c       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .comment       0x000000000000019e       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .comment       0x00000000000001b0       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .comment       0x00000000000001c2       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .comment       0x00000000000001d4       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .comment       0x00000000000001e6       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .comment       0x00000000000001f8       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .comment       0x000000000000020a       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .comment       0x000000000000021c       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .comment       0x000000000000022e       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .comment       0x0000000000000240       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .comment       0x0000000000000252       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000264       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000276       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .comment       0x0000000000000288       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .comment       0x000000000000029a       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .comment       0x00000000000002ac       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .comment       0x00000000000002be       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .comment       0x00000000000002d0       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .comment       0x00000000000002e2       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .comment       0x00000000000002f4       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000306       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .comment       0x0000000000000318       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .comment       0x000000000000032a       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .comment       0x000000000000033c       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .comment       0x000000000000034e       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .comment       0x0000000000000360       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .comment       0x0000000000000372       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .comment       0x0000000000000384       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .comment       0x0000000000000396       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .comment       0x00000000000003a8       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .comment       0x00000000000003ba       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .comment       0x00000000000003cc       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .comment       0x00000000000003de       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .comment       0x00000000000003f0       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .comment       0x0000000000000402       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .comment       0x0000000000000414       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .comment       0x0000000000000426       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .comment       0x0000000000000438       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .comment       0x000000000000044a       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .comment       0x000000000000045c       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .comment       0x000000000000046e       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .comment       0x0000000000000480       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .comment       0x0000000000000492       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .comment       0x00000000000004a4       0x12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_info     0x0000000000000000    0x2f8b0
+ .debug_info    0x0000000000000000      0x9ae /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .debug_info    0x00000000000009ae      0xe41 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .debug_info    0x00000000000017ef      0x961 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .debug_info    0x0000000000002150      0xc12 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .debug_info    0x0000000000002d62      0x9ec /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x000000000000374e     0x16df /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .debug_info    0x0000000000004e2d     0x204e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .debug_info    0x0000000000006e7b      0xbe7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .debug_info    0x0000000000007a62      0x9b5 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .debug_info    0x0000000000008417     0x1acd /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .debug_info    0x0000000000009ee4      0xd43 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .debug_info    0x000000000000ac27     0x10d9 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .debug_info    0x000000000000bd00      0xd67 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .debug_info    0x000000000000ca67      0xc74 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .debug_info    0x000000000000d6db      0x92a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+ .debug_info    0x000000000000e005      0xfa0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .debug_info    0x000000000000efa5     0x111d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .debug_info    0x00000000000100c2      0xf25 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .debug_info    0x0000000000010fe7     0x1020 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .debug_info    0x0000000000012007      0x9be /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .debug_info    0x00000000000129c5     0x1e14 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .debug_info    0x00000000000147d9      0xcef /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .debug_info    0x00000000000154c8      0xa57 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .debug_info    0x0000000000015f1f      0xe32 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .debug_info    0x0000000000016d51     0x1dfa /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .debug_info    0x0000000000018b4b      0xfeb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .debug_info    0x0000000000019b36      0xa2e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .debug_info    0x000000000001a564      0xc11 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .debug_info    0x000000000001b175      0x9e1 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .debug_info    0x000000000001bb56      0xeab /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .debug_info    0x000000000001ca01      0xcb0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .debug_info    0x000000000001d6b1      0xdeb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .debug_info    0x000000000001e49c      0xc29 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .debug_info    0x000000000001f0c5      0xebb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x000000000001ff80      0x9e1 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .debug_info    0x0000000000020961      0xa0f /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .debug_info    0x0000000000021370      0xf15 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .debug_info    0x0000000000022285      0xa27 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .debug_info    0x0000000000022cac      0xead /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .debug_info    0x0000000000023b59      0xc74 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .debug_info    0x00000000000247cd     0x1107 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .debug_info    0x00000000000258d4     0x112b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .debug_info    0x00000000000269ff     0x1144 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .debug_info    0x0000000000027b43      0x740 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .debug_info    0x0000000000028283      0x70b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .debug_info    0x000000000002898e      0x5e6 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .debug_info    0x0000000000028f74      0x4f4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .debug_info    0x0000000000029468      0x4f4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .debug_info    0x000000000002995c      0x4f4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .debug_info    0x0000000000029e50      0x4f4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .debug_info    0x000000000002a344      0x4f4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .debug_info    0x000000000002a838      0x4f4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .debug_info    0x000000000002ad2c      0x4cd /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .debug_info    0x000000000002b1f9      0x494 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .debug_info    0x000000000002b68d      0x4ce /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .debug_info    0x000000000002bb5b      0x391 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .debug_info    0x000000000002beec      0x499 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .debug_info    0x000000000002c385      0xe1c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .debug_info    0x000000000002d1a1      0xca3 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .debug_info    0x000000000002de44      0xd0c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .debug_info    0x000000000002eb50      0x4d4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .debug_info    0x000000000002f024      0x45d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .debug_info    0x000000000002f481      0x425 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_abbrev   0x0000000000000000     0x9b40
+ .debug_abbrev  0x0000000000000000      0x22d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .debug_abbrev  0x000000000000022d      0x30f /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x000000000000053c      0x1ff /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x000000000000073b      0x288 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .debug_abbrev  0x00000000000009c3      0x247 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000000c0a      0x418 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .debug_abbrev  0x0000000000001022      0x45e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .debug_abbrev  0x0000000000001480      0x27d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x00000000000016fd      0x20b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .debug_abbrev  0x0000000000001908      0x32f /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .debug_abbrev  0x0000000000001c37      0x30d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x0000000000001f44      0x42c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000002370      0x2bd /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x000000000000262d      0x245 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x0000000000002872      0x1b8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000002a2a      0x28f /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .debug_abbrev  0x0000000000002cb9      0x2e8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x0000000000002fa1      0x326 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00000000000032c7      0x293 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .debug_abbrev  0x000000000000355a      0x22b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000000000003785      0x458 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .debug_abbrev  0x0000000000003bdd      0x344 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .debug_abbrev  0x0000000000003f21      0x25d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .debug_abbrev  0x000000000000417e      0x2c2 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x0000000000004440      0x430 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .debug_abbrev  0x0000000000004870      0x28c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .debug_abbrev  0x0000000000004afc      0x245 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000004d41      0x269 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .debug_abbrev  0x0000000000004faa      0x240 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .debug_abbrev  0x00000000000051ea      0x1c5 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .debug_abbrev  0x00000000000053af      0x313 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x00000000000056c2      0x363 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .debug_abbrev  0x0000000000005a25      0x251 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x0000000000005c76      0x2a2 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x0000000000005f18      0x240 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .debug_abbrev  0x0000000000006158      0x251 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x00000000000063a9      0x202 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x00000000000065ab      0x240 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .debug_abbrev  0x00000000000067eb      0x29f /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x0000000000006a8a      0x2ba /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .debug_abbrev  0x0000000000006d44      0x25e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .debug_abbrev  0x0000000000006fa2      0x30c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000072ae      0x30d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x00000000000075bb      0x244 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .debug_abbrev  0x00000000000077ff      0x288 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .debug_abbrev  0x0000000000007a87      0x25c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .debug_abbrev  0x0000000000007ce3      0x1b7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .debug_abbrev  0x0000000000007e9a      0x1b7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .debug_abbrev  0x0000000000008051      0x1b7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .debug_abbrev  0x0000000000008208      0x1b7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .debug_abbrev  0x00000000000083bf      0x1b7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .debug_abbrev  0x0000000000008576      0x1b7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .debug_abbrev  0x000000000000872d      0x1b7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .debug_abbrev  0x00000000000088e4      0x1fb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .debug_abbrev  0x0000000000008adf      0x1bb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .debug_abbrev  0x0000000000008c9a      0x11c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .debug_abbrev  0x0000000000008db6      0x21e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .debug_abbrev  0x0000000000008fd4      0x26b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .debug_abbrev  0x000000000000923f      0x1f1 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .debug_abbrev  0x0000000000009430      0x23a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x000000000000966a      0x1cb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .debug_abbrev  0x0000000000009835      0x18b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .debug_abbrev  0x00000000000099c0      0x173 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_loc      0x0000000000000000    0x11f10
+ .debug_loc     0x0000000000000000       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .debug_loc     0x0000000000000058      0xb35 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000000000000b8d       0x8c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .debug_loc     0x0000000000000c19       0x66 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x0000000000000c7f      0x7a1 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .debug_loc     0x0000000000001420     0x2d15 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .debug_loc     0x0000000000004135       0xa2 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x00000000000041d7     0x29c9 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .debug_loc     0x0000000000006ba0      0x330 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .debug_loc     0x0000000000006ed0      0x2a8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000007178      0x585 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .debug_loc     0x00000000000076fd      0x211 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x000000000000790e       0x21 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .debug_loc     0x000000000000792f      0x12f /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .debug_loc     0x0000000000007a5e      0x2fc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x0000000000007d5a      0x15c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .debug_loc     0x0000000000007eb6      0x1a4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .debug_loc     0x000000000000805a     0x1fc7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .debug_loc     0x000000000000a021      0x440 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .debug_loc     0x000000000000a461       0xb3 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .debug_loc     0x000000000000a514      0x409 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .debug_loc     0x000000000000a91d     0x21a8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .debug_loc     0x000000000000cac5       0xe8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .debug_loc     0x000000000000cbad       0xbe /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .debug_loc     0x000000000000cc6b      0x2df /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .debug_loc     0x000000000000cf4a       0x66 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .debug_loc     0x000000000000cfb0      0x173 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .debug_loc     0x000000000000d123      0x32c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .debug_loc     0x000000000000d44f       0x92 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .debug_loc     0x000000000000d4e1      0x550 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x000000000000da31       0x66 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .debug_loc     0x000000000000da97       0xbe /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .debug_loc     0x000000000000db55      0x3ce /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .debug_loc     0x000000000000df23       0xbe /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .debug_loc     0x000000000000dfe1      0xff7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x000000000000efd8      0x1e4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .debug_loc     0x000000000000f1bc      0x3d2 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .debug_loc     0x000000000000f58e      0x94c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .debug_loc     0x000000000000feda      0x93c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .debug_loc     0x0000000000010816      0x776 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .debug_loc     0x0000000000010f8c      0x47b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .debug_loc     0x0000000000011407      0x1b0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .debug_loc     0x00000000000115b7       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .debug_loc     0x0000000000011607       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .debug_loc     0x0000000000011657       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .debug_loc     0x00000000000116a7       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .debug_loc     0x00000000000116f7       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .debug_loc     0x0000000000011747       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .debug_loc     0x0000000000011797       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .debug_loc     0x00000000000117e7       0xd1 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .debug_loc     0x00000000000118b8       0x3b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .debug_loc     0x00000000000118f3       0x97 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .debug_loc     0x000000000001198a      0x1be /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .debug_loc     0x0000000000011b48       0xa6 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .debug_loc     0x0000000000011bee      0x275 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .debug_loc     0x0000000000011e63       0xa5 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+
+.debug_aranges  0x0000000000000000      0x7c0
+ .debug_aranges
+                0x0000000000000000       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000000000001c0       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000001d8       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .debug_aranges
+                0x00000000000001f8       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x0000000000000218       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x0000000000000238       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .debug_aranges
+                0x0000000000000258       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000000278       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .debug_aranges
+                0x0000000000000298       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .debug_aranges
+                0x00000000000002b8       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .debug_aranges
+                0x0000000000000318       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .debug_aranges
+                0x0000000000000338       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x0000000000000358       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .debug_aranges
+                0x0000000000000378       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .debug_aranges
+                0x0000000000000398       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .debug_aranges
+                0x00000000000003b0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x00000000000003d0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .debug_aranges
+                0x00000000000003f0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x0000000000000410       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x0000000000000430       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x0000000000000450       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x0000000000000470       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000490       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x00000000000004b0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x00000000000004d0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x00000000000004f0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .debug_aranges
+                0x0000000000000510       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000530       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000550       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .debug_aranges
+                0x0000000000000570       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .debug_aranges
+                0x0000000000000590       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .debug_aranges
+                0x00000000000005b0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .debug_aranges
+                0x00000000000005d0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .debug_aranges
+                0x00000000000005f0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .debug_aranges
+                0x0000000000000610       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .debug_aranges
+                0x0000000000000630       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .debug_aranges
+                0x0000000000000650       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .debug_aranges
+                0x0000000000000670       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .debug_aranges
+                0x0000000000000690       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .debug_aranges
+                0x00000000000006b0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .debug_aranges
+                0x00000000000006d0       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .debug_aranges
+                0x00000000000006e8       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .debug_aranges
+                0x0000000000000708       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x0000000000000728       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .debug_aranges
+                0x0000000000000740       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x0000000000000760       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .debug_aranges
+                0x0000000000000780       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .debug_aranges
+                0x00000000000007a0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_line     0x0000000000000000     0xf570
+ .debug_line    0x0000000000000000      0x1c8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .debug_line    0x00000000000001c8      0x85f /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000000a27      0x14d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .debug_line    0x0000000000000b74      0x261 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .debug_line    0x0000000000000dd5      0x1f7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x0000000000000fcc      0x498 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .debug_line    0x0000000000001464     0x19b4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .debug_line    0x0000000000002e18      0x379 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .debug_line    0x0000000000003191      0x1d5 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .debug_line    0x0000000000003366     0x152b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .debug_line    0x0000000000004891      0x478 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .debug_line    0x0000000000004d09      0x5da /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .debug_line    0x00000000000052e3      0x521 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .debug_line    0x0000000000005804      0x30a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .debug_line    0x0000000000005b0e      0x135 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+ .debug_line    0x0000000000005c43      0x2ad /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .debug_line    0x0000000000005ef0      0x332 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .debug_line    0x0000000000006222      0x3d3 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .debug_line    0x00000000000065f5      0x2da /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .debug_line    0x00000000000068cf      0x2c0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .debug_line    0x0000000000006b8f     0x1567 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .debug_line    0x00000000000080f6      0x409 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .debug_line    0x00000000000084ff      0x205 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .debug_line    0x0000000000008704      0x2f4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .debug_line    0x00000000000089f8     0x1321 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .debug_line    0x0000000000009d19      0x278 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .debug_line    0x0000000000009f91      0x1fb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .debug_line    0x000000000000a18c      0x20e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .debug_line    0x000000000000a39a      0x1f7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .debug_line    0x000000000000a591      0x203 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .debug_line    0x000000000000a794      0x2b2 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .debug_line    0x000000000000aa46      0x337 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .debug_line    0x000000000000ad7d      0x29b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .debug_line    0x000000000000b018      0x60d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x000000000000b625      0x1f8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .debug_line    0x000000000000b81d      0x1fb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .debug_line    0x000000000000ba18      0x330 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .debug_line    0x000000000000bd48      0x1fa /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .debug_line    0x000000000000bf42      0x5bb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .debug_line    0x000000000000c4fd      0x317 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .debug_line    0x000000000000c814      0x360 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .debug_line    0x000000000000cb74      0x3c0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .debug_line    0x000000000000cf34      0x41a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .debug_line    0x000000000000d34e      0x3b5 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .debug_line    0x000000000000d703      0x369 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .debug_line    0x000000000000da6c      0x268 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .debug_line    0x000000000000dcd4      0x10b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .debug_line    0x000000000000dddf      0x10b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .debug_line    0x000000000000deea       0xfa /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .debug_line    0x000000000000dfe4       0xfa /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .debug_line    0x000000000000e0de      0x10b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .debug_line    0x000000000000e1e9      0x10b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .debug_line    0x000000000000e2f4       0xef /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .debug_line    0x000000000000e3e3      0x183 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .debug_line    0x000000000000e566      0x13a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .debug_line    0x000000000000e6a0       0x8e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .debug_line    0x000000000000e72e      0x14b /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .debug_line    0x000000000000e879      0x2a4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .debug_line    0x000000000000eb1d      0x1eb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .debug_line    0x000000000000ed08      0x23e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .debug_line    0x000000000000ef46      0x281 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .debug_line    0x000000000000f1c7      0x18a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .debug_line    0x000000000000f351      0x211 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_str      0x0000000000000000    0x1b920
+ .debug_str     0x0000000000000000      0x563 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .debug_str     0x0000000000000563      0x79a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .debug_str     0x0000000000000cfd      0x55e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .debug_str     0x000000000000125b      0x6a7 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .debug_str     0x0000000000001902      0x575 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .debug_str     0x0000000000001e77      0x831 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .debug_str     0x00000000000026a8      0xc64 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .debug_str     0x000000000000330c      0x6b6 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .debug_str     0x00000000000039c2      0x570 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .debug_str     0x0000000000003f32      0xa38 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .debug_str     0x000000000000496a      0x6e4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .debug_str     0x000000000000504e      0x7f4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .debug_str     0x0000000000005842      0x713 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .debug_str     0x0000000000005f55      0x6a8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .debug_str     0x00000000000065fd      0x532 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-impure.o)
+ .debug_str     0x0000000000006b2f      0x8c4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .debug_str     0x00000000000073f3      0x935 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .debug_str     0x0000000000007d28      0x832 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .debug_str     0x000000000000855a      0x8d5 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .debug_str     0x0000000000008e2f      0x550 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .debug_str     0x000000000000937f      0x9e1 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .debug_str     0x0000000000009d60      0x5d5 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .debug_str     0x000000000000a335      0x57a /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .debug_str     0x000000000000a8af      0x6fc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .debug_str     0x000000000000afab      0xbcc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .debug_str     0x000000000000bb77      0x8dc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .debug_str     0x000000000000c453      0x572 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .debug_str     0x000000000000c9c5      0x6be /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .debug_str     0x000000000000d083      0x562 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .debug_str     0x000000000000d5e5      0x853 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-ctype_.o)
+ .debug_str     0x000000000000de38      0x6cd /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .debug_str     0x000000000000e505      0x6fc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .debug_str     0x000000000000ec01      0x6d9 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .debug_str     0x000000000000f2da      0x735 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .debug_str     0x000000000000fa0f      0x56c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .debug_str     0x000000000000ff7b      0x570 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .debug_str     0x00000000000104eb      0x87e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .debug_str     0x0000000000010d69      0x570 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .debug_str     0x00000000000112d9      0x751 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .debug_str     0x0000000000011a2a      0x6bb /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .debug_str     0x00000000000120e5      0x8cf /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .debug_str     0x00000000000129b4      0xa1c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .debug_str     0x00000000000133d0      0xa1c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .debug_str     0x0000000000013dec      0x606 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .debug_str     0x00000000000143f2      0x5d8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .debug_str     0x00000000000149ca      0x5c8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .debug_str     0x0000000000014f92      0x595 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .debug_str     0x0000000000015527      0x595 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .debug_str     0x0000000000015abc      0x595 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .debug_str     0x0000000000016051      0x595 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .debug_str     0x00000000000165e6      0x595 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .debug_str     0x0000000000016b7b      0x595 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .debug_str     0x0000000000017110      0x588 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .debug_str     0x0000000000017698      0x570 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .debug_str     0x0000000000017c08      0x58d /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .debug_str     0x0000000000018195      0x523 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_thenan_df.o)
+ .debug_str     0x00000000000186b8      0x56c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .debug_str     0x0000000000018c24      0x9ce /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .debug_str     0x00000000000195f2      0x971 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clz.o)
+ .debug_str     0x0000000000019f63      0x98e /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .debug_str     0x000000000001a8f1      0x581 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .debug_str     0x000000000001ae72      0x563 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .debug_str     0x000000000001b3d5      0x546 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_frame    0x0000000000000000     0x21d0
+ .debug_frame   0x0000000000000000       0x30 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000030       0x98 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000000000c8       0x30 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000000f8       0x70 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-printf.o)
+ .debug_frame   0x0000000000000168       0x4c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000001b4      0x2a0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .debug_frame   0x0000000000000454       0xcc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .debug_frame   0x0000000000000520       0x40 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000000560       0x28 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-abort.o)
+ .debug_frame   0x0000000000000588      0x170 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000000000006f8       0xb0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .debug_frame   0x00000000000007a8      0x194 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .debug_frame   0x000000000000093c       0xc8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000a04       0xfc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000b00       0x40 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .debug_frame   0x0000000000000b40       0x84 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .debug_frame   0x0000000000000bc4       0xcc /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000000c90       0x40 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x0000000000000cd0       0x34 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memchr.o)
+ .debug_frame   0x0000000000000d04      0x4f8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000000000011fc      0x168 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .debug_frame   0x0000000000001364       0x5c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .debug_frame   0x00000000000013c0       0xe4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000014a4      0x168 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .debug_frame   0x000000000000160c       0x30 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x000000000000163c       0x4c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .debug_frame   0x0000000000001688       0x40 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .debug_frame   0x00000000000016c8       0x4c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .debug_frame   0x0000000000001714       0x78 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .debug_frame   0x000000000000178c       0xd0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .debug_frame   0x000000000000185c       0x4c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x00000000000018a8       0x9c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000001944       0x4c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000001990       0x4c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000000019dc       0x30 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000001a0c       0x4c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .debug_frame   0x0000000000001a58       0xe4 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000001b3c       0x60 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000001b9c       0xa0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .debug_frame   0x0000000000001c3c       0xe8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .debug_frame   0x0000000000001d24       0x98 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .debug_frame   0x0000000000001dbc       0x50 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .debug_frame   0x0000000000001e0c       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_eq_df.o)
+ .debug_frame   0x0000000000001e54       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ne_df.o)
+ .debug_frame   0x0000000000001e9c       0x3c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_gt_df.o)
+ .debug_frame   0x0000000000001ed8       0x3c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_ge_df.o)
+ .debug_frame   0x0000000000001f14       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_lt_df.o)
+ .debug_frame   0x0000000000001f5c       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_le_df.o)
+ .debug_frame   0x0000000000001fa4       0x38 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unord_df.o)
+ .debug_frame   0x0000000000001fdc       0x3c /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .debug_frame   0x0000000000002018       0x44 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_df_to_si.o)
+ .debug_frame   0x000000000000205c       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .debug_frame   0x00000000000020b4       0x70 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .debug_frame   0x0000000000002124       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .debug_frame   0x0000000000002144       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
+ .debug_frame   0x000000000000218c       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_unpack_df.o)
+ .debug_frame   0x00000000000021ac       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_ranges   0x0000000000000000      0xee0
+ .debug_ranges  0x0000000000000000       0x38 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x0000000000000038       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-syscalls.o)
+ .debug_ranges  0x0000000000000050      0x1d0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfprintf.o)
+ .debug_ranges  0x0000000000000220       0x28 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x0000000000000248       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000000290       0xa0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x0000000000000330       0x80 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-localeconv.o)
+ .debug_ranges  0x00000000000003b0       0x30 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-locale.o)
+ .debug_ranges  0x00000000000003e0       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-makebuf.o)
+ .debug_ranges  0x00000000000003f8       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mbtowc_r.o)
+ .debug_ranges  0x0000000000000418       0x78 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-mprec.o)
+ .debug_ranges  0x0000000000000490       0x30 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signal.o)
+ .debug_ranges  0x00000000000004c0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-signalr.o)
+ .debug_ranges  0x00000000000004e0      0x1c8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-vfiprintf.o)
+ .debug_ranges  0x00000000000006a8       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wctomb_r.o)
+ .debug_ranges  0x00000000000006c0       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-writer.o)
+ .debug_ranges  0x00000000000006e0       0x68 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-callocr.o)
+ .debug_ranges  0x0000000000000748       0x28 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-closer.o)
+ .debug_ranges  0x0000000000000770       0x38 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fclose.o)
+ .debug_ranges  0x00000000000007a8       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fputwc.o)
+ .debug_ranges  0x0000000000000800       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fstatr.o)
+ .debug_ranges  0x0000000000000820       0x18 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x0000000000000838       0x28 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-isattyr.o)
+ .debug_ranges  0x0000000000000860       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-lseekr.o)
+ .debug_ranges  0x0000000000000880       0x20 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-readr.o)
+ .debug_ranges  0x00000000000008a0      0x108 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x00000000000009a8       0x28 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wbuf.o)
+ .debug_ranges  0x00000000000009d0       0x60 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libc.a(lib_a-wcrtomb.o)
+ .debug_ranges  0x0000000000000a30       0xd8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_udivdi3.o)
+ .debug_ranges  0x0000000000000b08       0xc8 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_umoddi3.o)
+ .debug_ranges  0x0000000000000bd0       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_addsub_df.o)
+ .debug_ranges  0x0000000000000c18       0xc0 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_mul_df.o)
+ .debug_ranges  0x0000000000000cd8       0x60 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_div_df.o)
+ .debug_ranges  0x0000000000000d38       0x48 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_si_to_df.o)
+ .debug_ranges  0x0000000000000d80       0x30 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_usi_to_df.o)
+ .debug_ranges  0x0000000000000db0       0x58 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_muldi3.o)
+ .debug_ranges  0x0000000000000e08       0x38 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_clzsi2.o)
+ .debug_ranges  0x0000000000000e40       0x98 /data/f-of-e-tools/tools/sunflower/tools/tools-lib/superH/libgcc.a(_pack_df.o)
